@@ -1,2 +1,6 @@
 # hello-world
-first try
+
+This is my first try on GitHub.
+So far so good.
+
+Moving forward.
